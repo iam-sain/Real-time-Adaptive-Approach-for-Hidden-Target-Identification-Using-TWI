@@ -7,7 +7,8 @@ systems. This report presents a real-time adaptive approach integrating neural n
 curve-fitting techniques to enhance target shape identification using MATLAB-based
 implementation
 
-#Problem Statement
+**#Problem Statement
+
 Traditional through-wall imaging techniques suffer from image blurring, low signal-to-clutter
 ratio (SCR), and difficulty in recognizing target shapes. Conventional image processing
 methods are inadequate for handling complex target orientations and environmental
